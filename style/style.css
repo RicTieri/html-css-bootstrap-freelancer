@@ -1,0 +1,14 @@
+header,
+footer{
+  height: 80px;
+  margin-bottom: 2rem;
+  background-color: lightgreen;
+}
+
+div{
+  border: 1px solid limegreen;
+}
+
+section{
+  margin-bottom: 2rem;
+}
