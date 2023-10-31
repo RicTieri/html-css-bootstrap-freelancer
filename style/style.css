@@ -1,6 +1,6 @@
 header,
 footer{
-  height: 80px;
+  height: 100px;
   margin-bottom: 2rem;
   background-color: lightgreen;
 }
@@ -9,6 +9,6 @@ div{
   border: 1px solid limegreen;
 }
 
-section{
+main section{
   margin-bottom: 2rem;
 }
