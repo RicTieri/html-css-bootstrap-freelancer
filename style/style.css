@@ -34,10 +34,14 @@ nav {
 }
 
 .fa-star{
-  vertical-align: middle;
+  font-size: 1.5rem;
 }
 
-#portfolio h2{
+.fa-download{
+  margin-right: .5rem;
+}
+
+h2{
   text-transform: uppercase;
 }
 
@@ -48,4 +52,9 @@ nav {
 
 .my_img img{
   width: 100%;
+}
+
+#about-us p{
+  text-align: left;
+  font-size: 1.3rem;
 }
