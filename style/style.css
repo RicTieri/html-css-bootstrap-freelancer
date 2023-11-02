@@ -58,3 +58,21 @@ h2{
   text-align: left;
   font-size: 1.3rem;
 }
+
+input{
+  all: unset;
+  width: 100%;
+  border-bottom: 1px solid #cccccc;
+  font-size: 1.3rem;
+}
+
+textarea{
+  all: unset;
+  width: 100%;
+  border-bottom: 1px solid #cccccc;
+  font-size: 1.3rem;
+}
+
+::placeholder{
+  color: black;
+}
