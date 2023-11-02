@@ -21,6 +21,31 @@ nav {
   height: 250px;
 }
 
-main div{
-  border: 1px solid limegreen;
+.my_line_w{
+  height: 5px;
+  background-color: white;
+  border-radius: 50px;
+}
+
+.my_line_b{
+  height: 5px;
+  background-color: black;
+  border-radius: 50px;
+}
+
+.fa-star{
+  vertical-align: middle;
+}
+
+#portfolio h2{
+  text-transform: uppercase;
+}
+
+.my_img{
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.my_img img{
+  width: 100%;
 }
